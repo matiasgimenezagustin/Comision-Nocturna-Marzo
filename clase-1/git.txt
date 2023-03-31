@@ -1,0 +1,11 @@
+1.0.0 => se publica la aplicacion GOlite
+1.0.1 => se arregla la implementacion de la camara
+1.1.0 => se agrega la mensajeria con bugs
+1.1.1 => se arregla los problemas con la mensajeria
+1.1.2 => se arregla nuevamente la mensajeria  (tiene un gran bug que no permite entrar a los usuarios a la aplicacion)
+
+
+Cuando hacemos git init por defecto nuestros archivos no estan añadidos en el .git
+U = untracked => sin siguimiento
+A = Added => Se añadio a nuestro repositorio  (stage area)
+M = Modified => Se modifico un archivo
